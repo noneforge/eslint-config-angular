@@ -1,6 +1,6 @@
 {
   "name": "@noneforge/eslint-config-angular",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Angular ESLint configuration with TypeScript, component rules, and accessibility",
   "keywords": [
     "eslint",
