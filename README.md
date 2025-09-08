@@ -13,6 +13,19 @@ Comprehensive Angular ESLint configuration with TypeScript support, component/te
 - 🚀 **Standalone Components** - Promotes modern Angular architecture patterns
 - 🔧 **Smart Detection** - Different rules for tests, stories, schematics, and modules
 
+## Related Packages
+
+- [@noneforge/eslint-config](https://www.npmjs.com/package/@noneforge/eslint-config) - TypeScript/Javascript base configuration
+- [@noneforge/eslint-config-node](https://www.npmjs.com/package/@noneforge/eslint-config-node) - Node.js backend configuration
+
+## Requirements
+
+- Node.js >=20.19.0
+- ESLint >=9.22.0
+- TypeScript >=5.9.0
+- Angular >=20.0.0
+- RxJS >=7.4.0
+
 ## Installation
 
 ```bash
@@ -24,14 +37,6 @@ or with Yarn:
 ```bash
 yarn add --dev @noneforge/eslint-config-angular eslint typescript
 ```
-
-## Requirements
-
-- Node.js >=20.19.0
-- ESLint >=9.22.0
-- TypeScript >=5.9.0
-- Angular >=20.0.0
-- RxJS >=7.4.0
 
 ## Usage
 
