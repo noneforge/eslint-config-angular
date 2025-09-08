@@ -76,7 +76,7 @@
     "release:major": "npm version major && npm publish --access public"
   },
   "dependencies": {
-    "@noneforge/eslint-config": "^0.2.5",
+    "@noneforge/eslint-config": "^0.2.6",
     "angular-eslint": "^20.2.0",
     "globals": "^16.3.0"
   },
